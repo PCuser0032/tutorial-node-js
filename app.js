@@ -1,6 +1,6 @@
 const http = require('http')
 
-const host = '127.0.0.1'
+const host = 'localhost'
 const port = 7000
 
 function notFound(res) {
