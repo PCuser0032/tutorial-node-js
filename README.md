@@ -1,2 +1,2 @@
-# node-js-tutorial
+# tutorial-node-js
 Learn Node.JS
