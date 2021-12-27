@@ -15,7 +15,7 @@ app.get('/about', (req, res) => {
 
 app.post('/api/admin', (req, res) => {
   res.status(200).type('text/plain')
-  res.send('Create admin request')
+  res.send(`${res}`)
 })
 
 app.post('/api/user', (req, res) => {

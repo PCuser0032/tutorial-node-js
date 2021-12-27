@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/PCuser0032/tutorial-node-js#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
   }
 }
